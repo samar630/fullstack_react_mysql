@@ -1,0 +1,56 @@
+{
+    "typescript.suggestionActions.enabled": false,
+    "javascript.suggestionActions.enabled": false,
+    "debug.javascript.autoAttachFilter": "smart",
+    "debug.javascript.autoExpandGetters": true,
+    "workbench.preferredDarkColorTheme": "Dracula",
+    "window.autoDetectColorScheme": true,
+    "files.restoreUndoStack": false,
+    "workbench.preferredHighContrastColorTheme": "Dracula",
+    "workbench.preferredLightColorTheme": "Dracula",
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "editor.fontFamily": "Segoe UI",
+    "editor.emptySelectionClipboard": false,
+    "editor.selectionHighlight": false,
+    "editor.padding.bottom": 0,
+    "editor.padding.top": 0,
+    "npm.enableRunFromFolder": true,
+    "editor.quickSuggestionsDelay": 1,
+    "screencastMode.verticalOffset": 30,
+    "editor.scrollbar.verticalScrollbarSize": 17,
+    "editor.tabSize": 5,
+    "workbench.editor.tabSizing": "shrink",
+    "editor.detectIndentation": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoSave": "afterDelay",
+    "git.ignoredRepositories": [
+      "C:\\Users\\Yazan\\Desktop\\New folder\\store-employee-module\\store-dashboard\\src\\modules\\stock"
+    ],
+    "editor.formatOnType": true,
+    "eslint.format.enable": true,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.codeAction.showDocumentation": {},
+    "eslint.codeAction.disableRuleComment": {
+      "enable": false,
+      "location": "separateLine"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.endOfLine": "auto",
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.semi": false,
+    "editor.suggest.showStatusBar": true,
+    "trailingComma": "none",
+    "prettier.trailingComma": "none",
+    "git.enableSmartCommit": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "monospace"
+  }
